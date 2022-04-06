@@ -1,0 +1,9 @@
+# Watomatic donations for the past month
+
+liberapay = 10.60
+paypal = 0.00
+
+total-received = 10.60
+total-received-pct = 1.89
+total-goal = 560
+unit = "USD"
